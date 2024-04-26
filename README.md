@@ -1,4 +1,8 @@
+## Exploring the Parch and Posey Database (SQL Data Analysis)
+
+
 INTRODUCTION
+
 In this analysis, I explored the Parch and Posey database. I carried out an analysis of this database to get insights that will be beneficial to the growth of the Parch and Posey company. 
 Firstly, Parch and Posey is a hypothetical company that sells paper. They have 50 sales reps spread across 4 regions in America. They sell 3 types of paper.
 1.	Standard
