@@ -8,6 +8,8 @@ Firstly, Parch and Posey is a hypothetical company that sells paper. They have 5
 1.	Standard
 2.	Gloss
 3.	Poster
+
+   
 Their customers are large companies they attract by advertising on Google, Facebook, and Twitter
 In the Parch & Posey database, there are five tables web_events, accounts, orders, sales_reps, and region.
 This analysis helped to understand the progress growth of Parch and Posey. I this analysis looked at:
