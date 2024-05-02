@@ -3,8 +3,8 @@
 
 INTRODUCTION
 
-In this analysis, I explored the Parch and Posey database. I carried out an analysis of this database to get insights that will be beneficial to the growth of the Parch and Posey company. 
-Firstly, Parch and Posey is a hypothetical company that sells paper. They have 50 sales reps spread across 4 regions in America. They sell 3 types of paper.
+In this analysis, I explored the Parch and Posey database. I carried out an analysis on this database to get insights that will be beneficial to the growth of the Parch and Posey company. 
+Firstly, Parch and Posey is a hypothetical company that sells paper. They have 50 sales reps spread across 4 regions in America. They sell 3 types of paper:
 1.	Standard
 2.	Gloss
 3.	Poster
@@ -29,6 +29,6 @@ This analysis helped to understand the progress growth of Parch and Posey. In th
 13.	The region with the smallest amount of total sales (USD), and how many total orders were placed?
 14.	The customer that spent the most (in total over their lifetime as a customer) in terms of total amount (USD). How many web events did they have for each channel?
 15.	Provide the name of the sales rep in each region with the largest amount of total amount (USD).
-16.	Find the region with the largest sales in terms of total amount (USD), how many total orders were placed?
-17.	The account that purchased the most (in total over their lifetime as a customer) in terms of standard quantity paper, how many accounts still had more in total
+16.	The account that purchased the most (in total over their lifetime as a customer) in terms of standard quantity paper, how many accounts still had more in total?
+
 
